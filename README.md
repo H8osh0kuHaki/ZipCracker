@@ -1,5 +1,5 @@
 # How to Install?
-git clone 
+git clone https://github.com/H8osh0kuHaki/ZipCracker.git
 _________________________
 cd ZipCracker
 _________________________
